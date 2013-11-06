@@ -1,7 +1,7 @@
 ## as of 11/6/2013
 # file location that was on felek got deleted during a switch
 # saving this on git now.
-# have not updated directories and file sources etc..
+# have not updated directories and file sources etc...
 
 
 
